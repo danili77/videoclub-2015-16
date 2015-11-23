@@ -5,11 +5,11 @@
         <title>Videoclub</title>
     </head>
     <body><?php
-        require 'auxiliar.php';
+        require 'auxiliar.php'; 
 
         function selected($value, $col)
         {    
-            return ($value == $col) ? 'selected=on' : '';
+            return ($value == $col) ? 'selected=on' : ''; /*Comentario*/
         }
 
         $columnas = array(

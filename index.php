@@ -2,7 +2,7 @@
 <html>
     <head>
         <meta charset="utf-8" />
-        <title>Videoclub 2015/16</title>
+        <title>Videoclub 2015/2016</title>
     </head>
     <body><?php
         require 'auxiliar.php'; 
